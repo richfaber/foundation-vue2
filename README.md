@@ -1,4 +1,4 @@
-# vue2
+# foundation-vue2
 
 ## Project setup
 ```
